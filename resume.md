@@ -10,10 +10,11 @@ seifriedha@appstate.edu
 ##### Appalachian State University
 ##### Boone, North Carolina, USA
 
-##Summary
+## Summary
+
 I am senior geography major getting my GIS certificate. I am currently working as a Food and Beverage Supervisor at the Blowing Rock Country Club.
 
-##Education
+## Education
 * Corinth Holders Elementary
 * Archers Lodge Middle
 * Corinth Holders High
